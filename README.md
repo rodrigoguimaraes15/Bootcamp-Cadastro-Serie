@@ -12,7 +12,7 @@ No caso, acrescentei uma validação no inicio do codigo para que o usuario info
 
 ### Senha do usuario
 
-<img src="img/validacao-senha.png" ></img>
+<img src="img/validacao-senha.PNG" ></img>
 
 No caso, se na segunda opção a senha for diferente da primeira, é disparado uma exceção e aborta o programa.
 
@@ -28,7 +28,7 @@ Além de cadastrar series, também é possivel cadastrar filmes.
 
 ### Descrição de um filme cadastrado
 
-<img src="img/descricao-filme.png" ></img>
+<img src="img/descricao-filme.PNG" ></img>
 
 Aqui um exemplo de um filme cadastrado e todos os seus descritivos.
 
