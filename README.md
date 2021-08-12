@@ -20,7 +20,7 @@ No caso, se na segunda opção a senha for diferente da primeira, é disparado u
 
 ### Inclusão de Filmes
 
-<img src="img/opcao-filme.png" ></img>
+<img src="img/opcao-filme.PNG" ></img>
 
 Além de cadastrar series, também é possivel cadastrar filmes.
 
